@@ -1,4 +1,4 @@
-# ✨ CLARA — Your Personal AI Assistant
+# ✨ CLARA — Personal AI Assistant
 
 \<p align="center">
 &#x20; \<strong>Clarity in every conversation.\</strong>
