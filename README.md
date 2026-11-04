@@ -56,7 +56,7 @@ Follow these steps to run CLARA on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CLARA.git
+git clone https://github.com/Bamathi-2007/CLARA.git
 cd CLARA
 ```
 
@@ -150,11 +150,6 @@ Through this project, I explored:
 ## 👩‍💻 Author
 
 **Bamathi G.**
-
-B.Tech Information Technology Student
-
 ---
 
-\<p align="center">
-&#x20; \<strong>CLARA — Clarity in every conversation. 💛\</strong>
-\</p>
+CLARA — Clarity in every conversation. 💛
